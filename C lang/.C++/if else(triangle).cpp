@@ -1,0 +1,25 @@
+#include<iostream>
+using namespace std;
+
+int main()
+{
+	int s1,s2,s3;
+	cout<<"Enter the sides of triangle :";
+	cin>>s1>>s2>>s3;
+	if(s1==s2 && s1==s3 && s2==s3)
+	{
+		cout<<"It is a equilateral triangle ";
+	}
+	else if(s1!=s2 && s1!=s3 && s3!=s2)
+	{
+		cout<<"It is a scalene triangle ";
+	}
+	else
+	{
+		cout<<"It is a isosceles triangle ";
+		
+	}
+	
+	
+	return 0;
+}
