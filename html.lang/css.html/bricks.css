@@ -1,0 +1,110 @@
+.table1{
+    background-color: rgb(16, 16, 231);
+    height: 200px;
+    width: 200px;
+    margin: 0px;
+    display: inline-table;
+
+}
+.table2{
+    background-color: rgb(230, 11, 11);
+    height: 200px;
+    width: 200px;
+    margin-left: 0px;
+    display: inline-table;
+   
+
+}
+.table3{
+    background-color: rgb(19, 219, 19);
+    height: 200px;
+    width: 200px;
+    margin-right: 0px;
+    display: inline-table; 
+    
+}
+.table4{
+    background-color: rgb(199, 241, 8);
+    height: 200px;
+    width: 302px;
+    margin: 0px;
+    display: inline-table;
+}
+.table5{
+    background-color: rgb(5, 4, 5);
+    height: 200px;
+    width: 302px;
+    margin-right: 3px;
+    display: inline-table;
+}
+.table6{
+    background-color: rgb(219, 19, 209);
+    height: 200px;
+    width: 118px;
+    margin-right: 0px;
+    display: inline-table; 
+    
+}
+.table7{
+    background-color: rgb(241, 148, 8);
+    height: 200px;
+    width:  118px;
+    margin: 0px;
+    display: inline-table;
+}
+.table8{
+    background-color: rgb(233, 14, 14);
+    height: 200px;
+    width:  118px;
+    margin: 0px;
+    display: inline-table;
+}
+.table9{
+    background-color: rgb(8, 241, 163);
+    height: 200px;
+    width:  118px;
+    margin: 0px;
+    display: inline-table;
+}
+.table10{
+    background-color: rgb(224, 29, 224);
+    height: 200px;
+    width:  118px;
+    margin: 0px;
+    display: inline-table;
+}
+.table11{
+    background-color: rgb(241, 180, 12);
+    height: 200px;
+    width: 606px;
+    margin: 0px;
+    display: inline-table;
+}
+.table12{
+    background-color: rgb(233, 14, 14);
+    height: 200px;
+    width: 148px;
+    margin: 0px;
+    display: inline-table;
+}
+.table13{
+    background-color: rgb(8, 241, 163);
+    height: 200px;
+    width: 148px;
+    margin: 0px;
+    display: inline-table;
+}
+.table14{
+    background-color: rgb(224, 29, 224);
+    height: 200px;
+    width: 148px;
+    margin: 0px;
+    display: inline-table;
+}
+.table15{
+    background-color: rgb(241, 180, 12);
+    height: 200px;
+    width: 148px;
+    margin: 0px;
+    display: inline-table;
+}

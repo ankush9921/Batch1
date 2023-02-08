@@ -1,0 +1,21 @@
+.style1{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+}
+.style2{
+    background-color: rgb(168, 11, 11);
+    height: 100px;
+    width: 100px;
+    margin-left: 100px;
+    
+}
+.style3{
+    background-color: rgba(187, 255, 0, 0.767);
+    height: 100px;
+    width: 100px;
+    margin-left: 200px;
+    
+}
