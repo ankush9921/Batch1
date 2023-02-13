@@ -1,0 +1,18 @@
+.divcolor1{
+    background-color: gold;
+    height: 100px;
+    width: 100px;
+    display: inline-table;
+}
+.divcolor2{
+    background-color: blue;
+    height: 100px;
+    width: 100px;
+    display: inline-table;
+}
+.divcolor3{
+    background-color: deeppink;
+    height: 100px;
+    width: 100px;
+    display: inline-table;
+}

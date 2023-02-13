@@ -1,0 +1,41 @@
+.style1{
+    font-size: 50px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: bold;
+}
+.style2{
+    font-size: 18px;
+}
+.style3{
+    width: 380px;
+    height: 380px;
+}
+.hello{
+    font-size: 70px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: bold;
+    padding-bottom: 0%;
+}
+.line{
+    font-size: 40px;
+    padding-top: 0%;
+}
+.r1{
+    background-color: crimson;
+    height: 100px;
+    width: 100px;
+}
+.r2{
+    background-color: aquamarine;
+    height: 100px;
+    width: 100px;
+}
+.r3{
+    background-color: goldenrod;
+    height: 100px;
+    width: 100px;
+}
+.pr{
+    font-size: 20px;
+    font-style: italic;
+}
