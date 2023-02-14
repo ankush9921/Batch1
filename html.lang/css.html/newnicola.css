@@ -1,0 +1,43 @@
+.nicolafont{
+    font-size: large;
+}
+.imgwith{
+    width: 300px;
+    height: 300px;
+}
+.hello{
+    font-size: 100px;
+}
+.sizeabit{
+    font-size: 33px;
+}
+.background-color1{
+    background-color: red;
+    padding:15px;
+    height: 100px;
+    width: 100px;
+    padding-top: 33px;
+    
+
+}
+.background-color2{
+    background-color: rgb(128, 236, 4);
+    padding:15px;
+    height: 100px;
+    width: 100px;
+    padding-top: 33px;
+}
+.background-color3{
+    background-color: rgb(0, 240, 240);
+    padding:15px;
+    height: 100px;
+    width: 100px;
+    padding-top: 33px;
+    
+}
+.parafont{
+    font-size: 10px;
+}
+.border{
+    box-sizing: 10px;
+}

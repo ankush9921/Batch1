@@ -1,0 +1,17 @@
+.body{
+    max-height: 900px;
+    max-width: 1000px;
+}
+.sytle{
+    height: 100px;
+    max-width: fit-content;
+    margin-top: 20px;
+    margin-left: 100px;
+}
+.name{
+    height: 150px;
+    width: 1000px;
+    font-size: 60px;
+    margin-left: 100px;
+    margin-top: 50px;
+}

@@ -1,0 +1,42 @@
+.add{
+    height: 900px;
+    width: 1100px;;
+    background-color: grey;
+
+}
+.add2{
+    height: 50px;
+    width: 600px;
+   background-color:grey;
+    margin-left: 150px;
+    border-image: url(nicola.webp);
+    
+}
+.add1{
+    height: 100px;
+    width: 900px;
+    margin-left: auto;
+    display: inline;
+    margin: 8px;
+    margin-left: 100px;
+    background-color:grey;
+    margin-right: 20px;
+}
+.add3{
+    margin-top: 150px;
+    height: 500px;
+    /* width: 1100px; */
+   
+    margin-left: 110px;
+    background-color:grey;
+    float: left;
+    float: inline-start;
+    
+    
+}
+.add4{
+    margin-left:400px;
+    display: inline-table;
+    background-color:grey;
+    
+}
