@@ -1,0 +1,5 @@
+a=int (input('enter the 1st:'))
+b=int (input('enter the 2nd:'))
+c=int (input('enter the 3rd:'))
+ans=(a**2+b**2+c**2)-2*(a*b+b*c+a*c)
+print(ans)
